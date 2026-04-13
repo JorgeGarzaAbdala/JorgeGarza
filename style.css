@@ -1,0 +1,41 @@
+body{
+
+    font-family: "roboto condensed";
+    background-color: #FFF1D3;
+}
+h1{
+    color:#FFC81E;
+}
+.about-me{
+    background-color: #73A5CA;
+    color:wh
+}
+
+
+.subtitle {
+    text-align: center;
+    color: #E87F24;
+    margin-bottom: 0.5rem; /* pegado al contenido */
+}
+
+.rounded-img{
+
+  border-radius: 50%;
+
+
+}
+
+
+.qr{
+    width: 100px;
+    height: 100px;
+}
+section {
+    margin-bottom: 3rem;
+}
+
+
+
+
+
+
